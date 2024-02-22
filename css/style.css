@@ -50,3 +50,21 @@ a.my-nav-bar-item-brand {
     border-radius: 12px;
     margin-left: 40px;
 }
+
+.my-footer-header{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.my-footer-main-title{
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.my-footer-item{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}

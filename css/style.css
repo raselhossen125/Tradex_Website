@@ -60,7 +60,12 @@ a.my-nav-bar-item-brand {
 .our-services{
     background-color: #F5F5F5;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
+}
+
+.our-services-item-image{
+    height: 60px;
+    width: 60px;
 }
 
 .our-services-title{
@@ -77,15 +82,6 @@ a.my-nav-bar-item-brand {
     text-align: center;
     padding-top: 16px;
     padding-bottom: 60px;
-}
-
-.our-services-item{
-    background-color: #FFFFFF;
-    border-radius: 16px;
-    height: 150px;
-    width: 150px;
-    display: grid;
-    place-items: center;
 }
 
 .my-footer-header{
